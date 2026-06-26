@@ -498,6 +498,8 @@ The final output includes three types of figures for each port:
 
 ### Busan Port
 
+![Busan Ship Detection and Classification Result](figures/Busan_Ship_Detection_Classification_Result.png)
+
 ```text
 Acquisition date: 2024-08-17
 Detected ships: 46
@@ -509,6 +511,8 @@ The Busan result shows ship detections mainly distributed in coastal waters and 
 
 ### Gwangyang Port
 
+![Gwangyang Ship Detection and Classification Result](figures/Gwangyang_Ship_Detection_Classification_Result.png)
+
 ```text
 Acquisition date: 2025-05-01
 Detected ships: 188
@@ -519,6 +523,8 @@ The Gwangyang result shows the highest number of detected ships among the three 
 ---
 
 ### Ulsan Port
+
+![Ulsan Ship Detection and Classification Result](figures/Ulsan_Ship_Detection_Classification_Result.png)
 
 ```text
 Acquisition date: 2025-05-08
