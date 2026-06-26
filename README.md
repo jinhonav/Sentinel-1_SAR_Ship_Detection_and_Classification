@@ -685,13 +685,19 @@ Users should download the datasets from their original sources.
 
 Used for SAR ship detection training.
 
+Link: https://www.kaggle.com/datasets/petrarodriguez/ls-ssdd-v1-0
+
 ### OpenSARShip2.0
 
 Used for SAR ship type classification training.
 
+Link: https://opensar.sjtu.edu.cn/DataAndCodes.html
+
 ### Sentinel-1 SAR Images
 
 Sentinel-1 SAR images can be downloaded from the Copernicus Data Space Ecosystem.
+
+Link: https://dataspace.copernicus.eu/
 
 ---
 
@@ -717,15 +723,9 @@ figures/
 
 ## References
 
-[1] Zhang, T., Zhang, X., Li, J., Xu, X., Wang, B., Zhan, X., Xu, Y., Ke, X., Zeng, T., Su, H., Ahmad, I., Zhou, D., Pan, S., Li, C., Liu, Y., & Shi, J. LS-SSDD-v1.0: A deep learning dataset dedicated to small ship detection from large-scale Sentinel-1 SAR images. Remote Sensing.
+[1] Zhang, T., Zhang, X., Ke, X., Zhan, X., Shi, J., Wei, S., ... & Kumar, D. (2020). LS-SSDD-v1. 0: A deep learning dataset dedicated to small ship detection from large-scale Sentinel-1 SAR images. Remote Sensing, 12(18), 2997.
 
-[2] Li, B., Liu, B., Huang, L., Guo, W., Zhang, Z., & Yu, W. OpenSARShip 2.0: A large-volume dataset for deeper interpretation of ship targets in Sentinel-1 imagery.
-
-[3] Jocher, G., Chaurasia, A., & Qiu, J. Ultralytics YOLOv8.
-
-[4] He, K., Zhang, X., Ren, S., & Sun, J. Deep Residual Learning for Image Recognition. CVPR, 2016.
-
-[5] European Space Agency. Sentinel-1 User Guide.
+[2] Li, B., Liu, B., Huang, L., Guo, W., Zhang, Z., & Yu, W. (2017, November). OpenSARShip 2.0: A large-volume dataset for deeper interpretation of ship targets in Sentinel-1 imagery. In 2017 SAR in Big Data Era: Models, Methods and Applications (BIGSARDATA) (pp. 1-5). IEEE.
 
 ---
 
