@@ -1,0 +1,29 @@
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# YOLO
+ultralytics>=8.3.0
+
+# Numerical Computing
+numpy>=1.24
+scipy>=1.10
+
+# Image Processing
+opencv-python>=4.8
+Pillow>=10.0
+
+# Data Processing
+pandas>=2.0
+
+# Visualization
+matplotlib>=3.8
+
+# Geospatial
+cartopy>=0.22
+pyproj>=3.6
+netCDF4>=1.6
+
+# Utilities
+tqdm>=4.66
+PyYAML>=6.0
