@@ -84,19 +84,6 @@ The main objectives of this project are:
 
 ---
 
-## Overall Workflow
-
-The overall workflow consists of two deep learning stages and one inference stage.
-
-1. Ship detection model training using LS-SSDD and YOLOv8.
-2. Ship type classification model training using OpenSARShip2.0 and ResNet.
-3. Application to Sentinel-1 SAR images over port areas.
-4. Geographic visualization of detected and classified ships.
-
-![Model Training Workflow](figures/Model_Training_Workflow.png)
-
----
-
 ## Sentinel-1 SAR Preprocessing
 
 All Sentinel-1 SAR images used for inference were preprocessed before being applied to the ship detection and classification models.
@@ -111,9 +98,7 @@ The preprocessing steps are:
 
 The preprocessed Sentinel-1 Sigma0 VV images were then mapped onto longitude-latitude grids for georeferenced visualization.
 
-```markdown
 ![Sentinel-1 SAR Preprocessing Workflow](figures/Sentinel1_SAR_Preprocessing_Workflow.png)
-```
 
 ### Preprocessing Details
 
@@ -356,7 +341,7 @@ opensarship2_resnet18_3class_ship_classifier.pt
 
 ## Training Workflow
 
-The model training process consists of two independent stages.
+![Model Training Workflow](figures/Model_Training_Workflow.png)
 
 ---
 
@@ -491,9 +476,7 @@ The final output includes three types of figures for each port:
 2. YOLOv8 ship detection result
 3. ResNet ship classification result
 
-```markdown
 ![Ship Detection and Classification Result](figures/Ship_Detection_Classification_Result.png)
-```
 
 ---
 
