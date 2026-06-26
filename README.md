@@ -58,10 +58,6 @@ Sentinel1_SAR_Ship_Detection_Classification/
 ├── MATLAB/
 │   └── Mapping_Sentinel1.m
 │
-├── trained_models/
-│   ├── ls_ssdd_yolov8s_20epoch_best.pt
-│   └── opensarship2_resnet18_3class_ship_classifier.pt
-│
 ├── requirements.txt
 ├── LICENSE
 ├── .gitignore
