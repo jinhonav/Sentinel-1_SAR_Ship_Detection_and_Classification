@@ -49,7 +49,7 @@ Sentinel1_SAR_Ship_Detection_Classification/
 ├── figures/
 │   ├── Model_Training_Workflow.png
 │   ├── Sentinel1_SAR_Preprocessing_Workflow.png
-│   ├── Ship_Detection_Classification_Result.png
+│   ├── Ship_Detection_Classification.png
 │   ├── Original_SAR_Image.png
 │   ├── Busan_Ship_Detection_Classification_Result.png
 │   ├── Gwangyang_Ship_Detection_Classification_Result.png
